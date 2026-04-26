@@ -42,3 +42,10 @@ print(numbers)  # [0, 1, 0, 2, 0, 3, 0, 4]
 1. Сортировка подсчетом (Counting sort)
 2. Блочная сортировка (Bucket sort)
 3. Поразрядная сортировка (Radix sort)
+
+---
+Ссылка на источник: 
+
+https://stepik.org/lesson/326725/step/1?unit=310010
+
+https://stepik.org/lesson/310445/step/1?unit=292748
