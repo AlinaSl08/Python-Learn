@@ -69,3 +69,10 @@ dct.clear()
 ``` python
 dct_copy = dct.copy()
 ```
+
+---
+Ссылка на источник:
+
+https://stepik.org/lesson/488830/step/1?unit=480066
+
+https://stepik.org/lesson/446696/step/1?unit=437002
