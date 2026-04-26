@@ -85,3 +85,10 @@ my_delta.microseconds
 ✅ **Встроенные функции `str()` и `repr()`** можно использовать для преобразования типа `timedelta` к строковому типу.
 
 ✅ Тип данных `timedelta` является неизменяемым.
+
+---
+Ссылка на истчоник:
+
+https://stepik.org/lesson/611754/step/1?unit=607091
+
+https://stepik.org/lesson/570050/step/1?unit=564593
