@@ -55,3 +55,6 @@
 #Далее будет напечатан текст
 print('Comments in Python')  # Печать текста с помощью команды print.
 ```
+
+---
+Ссылка на источник: https://stepik.org/lesson/275252/step/1?unit=256355
