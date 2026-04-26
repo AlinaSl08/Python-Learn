@@ -22,3 +22,6 @@ elif условие2:
 else:
     блок кода
 ```
+
+---
+Ссылка на источник: https://stepik.org/lesson/265082/step/1?unit=246030
