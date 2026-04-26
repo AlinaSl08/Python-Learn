@@ -98,3 +98,24 @@ def название_функции():
 ✅ **Предикат** — это функция-критерий, которая возвращает значение `True` или `False`.
 
 ✅ **Агрегация результата** — формирование одного результирующего значения при комбинации элементов с использованием аргумента-аккумулятора.
+
+---
+Ссылка на источник:
+
+https://stepik.org/lesson/331750/step/1?unit=315129
+
+https://stepik.org/lesson/333525/step/1?unit=316953
+
+https://stepik.org/lesson/331753/step/1?unit=315132
+
+https://stepik.org/lesson/331754/step/1?unit=315133
+
+https://stepik.org/lesson/334150/step/1?unit=317559
+
+https://stepik.org/lesson/503029/step/1?unit=494737
+
+https://stepik.org/lesson/503036/step/1?unit=494742
+
+https://stepik.org/lesson/508939/step/1?unit=501049
+
+https://stepik.org/lesson/508556/step/1?unit=500674
