@@ -80,3 +80,12 @@ else:
 ```
                   
 `Блок кода2`, указанный в `else`, будет выполнен, когда **штатным образом** завершается цикл `while` или `for`.
+
+---
+Ссылка на источник: 
+
+https://stepik.org/lesson/265121/step/1?unit=246070
+
+https://stepik.org/lesson/265122/step/1?unit=246071
+
+https://stepik.org/lesson/298794/step/1?unit=280621
