@@ -136,4 +136,10 @@ locale.setlocale(locale.LC_ALL, 'en_EN.UTF-8')     # устанавливает 
 
 ✅ **Метод `fromisoformat()`** используется для преобразования строки, записанной в ISO-формате, в объект типа date или в объект типа `time`.
 
+---
+Ссылка на источник:
+
+https://stepik.org/lesson/609341/step/1?unit=604560
+
+https://stepik.org/lesson/570048/step/1?unit=564591
 
