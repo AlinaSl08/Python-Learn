@@ -101,3 +101,12 @@ numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 print(*numbers, sep='\n')
 ```
+
+---
+Ссылка на источник:
+
+https://stepik.org/lesson/324750/step/1?unit=307926
+
+https://stepik.org/lesson/296419/step/1?unit=278139
+
+https://stepik.org/lesson/328948/step/1?unit=312239
