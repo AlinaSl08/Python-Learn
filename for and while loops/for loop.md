@@ -54,3 +54,12 @@ a, b, c, d = b, c, d, a
 |`/=`|`x /= 4`|`x = x / 4`|
 |`//=`|`x //= 4`|`x = x // 4`|
 |`%=`|`x %= 4`|`x = x % 4`|
+
+---
+Ссылка на источник:
+
+https://stepik.org/lesson/265118/step/1?unit=246067
+
+https://stepik.org/lesson/265120/step/1?unit=246069
+
+https://stepik.org/lesson/1987893/step/1?unit=2029448
