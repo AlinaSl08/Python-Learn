@@ -17,4 +17,8 @@
 **Примечание 3.** Первые 128 кодов таблицы символов Unicode совпадают с [ASCII](https://www.asciitable.com/).
 
 ---
-Ссылка на источник: https://stepik.org/lesson/313439/step/1?unit=295959
+Ссылка на источник: 
+
+https://stepik.org/lesson/313439/step/1?unit=295959
+
+https://stepik.org/lesson/313439/step/2?unit=295959
