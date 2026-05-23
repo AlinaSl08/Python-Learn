@@ -256,4 +256,8 @@ https://stepik.org/lesson/744448/step/1?unit=746216
 
 https://stepik.org/lesson/640051/step/1?unit=636571
 
+https://stepik.org/lesson/640051/step/10?unit=636571
+
 https://stepik.org/lesson/640052/step/1?unit=636572
+
+https://stepik.org/lesson/640052/step/10?unit=636572
