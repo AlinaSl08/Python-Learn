@@ -45,7 +45,6 @@ https://stepik.org/lesson/640164/step/1?unit=636683
 
 https://stepik.org/lesson/640164/step/7?unit=636683
 
-https://stepik.org/lesson/640164/step/20?unit=636683
 
 На изучение:
 
