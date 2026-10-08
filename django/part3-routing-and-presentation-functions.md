@@ -78,3 +78,6 @@ path('', include('women.urls')),  # Теперь сайт открывается
 ### 4. Импорт модуля целиком vs Импорт отдельных функций
 * **Плохо:** `from women.views import index, categories, about, contact` (список будет бесконечным, легко запутаться).
 * **Хорошо:** `from women import views` и затем обращение через точку: `views.index`, `views.categories`. Код становится чистым и понятным.
+
+---
+Ссылка на источник: https://stepik.org/lesson/1089282/step/2?unit=1099860
