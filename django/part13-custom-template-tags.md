@@ -129,3 +129,7 @@ def show_categories(cat_selected=0):
   ```django
   {% show_categories cat_selected=cat_selected %}
   ```
+
+---
+
+Ссылка на источник: https://stepik.org/lesson/1089294/step/2?unit=1099872
